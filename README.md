@@ -68,14 +68,7 @@ This repository contains categorized **Low-Level Design (LLD)** and **High-Level
 21. Design Netflix  
 22. Design Spotify Top K Songs  
 23. Design an Online Multiplayer Matchmaking System (HLD)  
-24. Design Google Docs (HLD Distributed Concurrency, Operational Transforms)  
-
----
-
-### 💡 Tip
-Use this list to plan your learning path:
-- Start with **Easy LLD** problems to strengthen class design and OOP concepts.  
-- Move on to **Medium and Hard HLD** for system scaling and distributed system principles.  
+24. Design Google Docs (HLD Distributed Concurrency, Operational Transforms)   
 
 ---
 
